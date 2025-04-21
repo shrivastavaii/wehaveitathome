@@ -1,0 +1,15 @@
+[
+    {
+      "name": "French Toast",
+      "ingredients": ["bread", "milk", "egg"],
+      "dietary": ["vegetarian"],
+      "time_minutes": 10
+    },
+    {
+      "name": "Avocado Toast",
+      "ingredients": ["bread", "avocado", "salt"],
+      "dietary": ["vegan"],
+      "time_minutes": 5
+    }
+  ]
+  
